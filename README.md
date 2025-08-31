@@ -36,6 +36,3 @@ A key contribution of this project was creating a new variable, `percent_refugee
 - Pooled OLS models were sensitive to overfitting and multicollinearity, especially in models with many regressors.  
 - Insights highlight the importance of economic variables like GDP, income distribution, and urbanization in understanding slum growth.
 
----
-
-## 📂 Repository Structure
