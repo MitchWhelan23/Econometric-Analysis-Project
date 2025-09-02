@@ -1,6 +1,6 @@
 # Econometric Analysis of Slum Population  
 
-## 📌 Overview
+## Overview
 This repository contains my **Econometrics** class project analyzing the socio-economic factors affecting the proportion of populations living in slums across various countries. The analysis uses **descriptive statistics, histograms, and econometric regressions** to explore relationships between slum prevalence and variables such as:
 
 - Proportion of refugees in a country  
@@ -12,7 +12,7 @@ A key contribution of this project was creating a new variable, `percent_refugee
 
 ---
 
-## ⚙️ Methods and Analysis
+##  Methods and Analysis
 - **Data Preparation:**  
   - Constructed `percent_refugees` = refugees / total population.  
   - Examined distributions of key variables (GDP, Gini coefficient, refugee count) and addressed skewness observed in the data.  
@@ -29,7 +29,7 @@ A key contribution of this project was creating a new variable, `percent_refugee
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 - The mean proportion of the urban population living in slums was **53.2%**, with high variation across countries.  
 - `percent_refugees` was a significant predictor, suggesting that increases in refugee populations contribute substantially to slum prevalence.  
 - Fixed effects models provided more reliable estimates by controlling for temporal and unit-specific factors.  
